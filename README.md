@@ -43,6 +43,8 @@
   <a href="https://github.com/krahets/hello-algo/blob/main/zh-hant/README.md">繁體中文</a>
   ｜
   <a href="https://github.com/krahets/hello-algo/blob/main/en/README.md">English</a>
+  ｜
+  <a href="https://github.com/krahets/hello-algo/blob/main/ja/README.md">日本語</a>
 </p>
 
 ## 关于本书
@@ -64,6 +66,17 @@
 > “如果我当年学数据结构与算法的时候有《Hello 算法》，学起来应该会简单 10 倍！”
 >
 > **—— 李沐，亚马逊资深首席科学家**
+
+## 鸣谢
+
+<p align="left">
+  <a href="https://go.warp.dev/hello-algo">
+    <img src="https://github.com/warpdotdev/brand-assets/blob/main/Github/Sponsor/Warp-Github-LG-02.png" alt="Warp-Github-LG-02" width="500"></a>
+</p>
+
+[Warp is built for coding with multiple AI agents.](https://go.warp.dev/hello-algo)
+
+强烈推荐 Warp 终端，高颜值 + 好用的 AI，体验非常棒！
 
 ## 贡献
 
